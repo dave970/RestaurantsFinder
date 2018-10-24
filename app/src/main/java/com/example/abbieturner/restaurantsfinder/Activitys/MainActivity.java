@@ -11,6 +11,7 @@ import android.transition.Fade;
 import com.example.abbieturner.restaurantsfinder.R;
 import butterknife.ButterKnife;
 
+
 public class MainActivity extends AppCompatActivity {
 
     @Override
