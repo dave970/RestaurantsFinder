@@ -11,4 +11,9 @@ public class LogInActivity extends AppCompatActivity {
         setContentView(R.layout.activity_log_in);
         // comment
     }
+
+
+    public void testFunction(){
+         //test function call for github
+    }
 }
