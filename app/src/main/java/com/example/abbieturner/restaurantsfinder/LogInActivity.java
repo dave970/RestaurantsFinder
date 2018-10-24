@@ -9,14 +9,5 @@ public class LogInActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_log_in);
-        // comment
-    }
-
-
-    public void testFunction(){
-         //test function call for github
-    }
-    public void secondTestFunction(){
-        //test
     }
 }
