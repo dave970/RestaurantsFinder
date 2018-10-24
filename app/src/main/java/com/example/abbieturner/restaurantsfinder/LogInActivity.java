@@ -16,4 +16,7 @@ public class LogInActivity extends AppCompatActivity {
     public void testFunction(){
          //test function call for github
     }
+    public void secondTestFunction(){
+        //test
+    }
 }
